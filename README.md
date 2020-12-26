@@ -37,7 +37,7 @@ other in real time.
 <br />
 <p align="center">
   <a href="https://github.com/sami-colon/react-chat-app">
-    <img src="react%20chat%20app%201.PNG" alt="Logo" width="500" height="800">
+    <img src="images/logo.png" alt="Logo" width="1000" height="500">
   </a>
 
   <h3 align="center">Anonymous Rooms</h3>
@@ -88,23 +88,18 @@ other in real time.
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`sami-colon`, `react-chat-app`, `twitter_handle`, `abhishek.personal.email@gmail.com`, `Anonymous Rooms`, `Anonymous Rooms is a real time chat application
-where user can create a new room and
-any no of users can be joined to same room.
-This app provides users to chat with each
-other in real time.`
+[Anonymous Chat](https://real-chat-room.herokuapp.com/)
+<p>
+  Anonymous Rooms is a real time chat application where user can create a new room and any no of users can be joined to same room. This app provides users to chat with each
+other in real time.
+</p>
 
 
 ### Built With
 
-* []()
-* []()
-* []()
+* [ReactJs](https://reactjs.org/)
+* [ExpresJs](https://expressjs.com/)
+* [Socket.io](https://socket.io/)
 
 
 
