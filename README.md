@@ -37,7 +37,7 @@ other in real time.
 <br />
 <p align="center">
   <a href="https://github.com/sami-colon/react-chat-app">
-    <img src="react%20chat%20app%201.PNG" alt="Logo" width="1000" height="300">
+    <img src="react%20chat%20app%201.PNG" alt="Logo" width="500" height="1000">
   </a>
 
   <h3 align="center">Anonymous Rooms</h3>
